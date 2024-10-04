@@ -13,7 +13,7 @@
 
 ### Writing Your Code
 
-- Watch the Basic Calculator video a couple times so you see how the project works
+- Watch the [Basic Calculator video](https://www.eduvision.tv/l?RLmgRDg) a couple times so you see how the project works
 - **With your team**, discuss what code you think you need to write to recreate the basic calculator shown in the video
   - What Python ingredients, so to speak, would you need to create such a calculator?
   - Think about the topics we've covered so far this year in class
