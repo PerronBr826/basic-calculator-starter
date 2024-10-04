@@ -39,6 +39,7 @@ else:
 ```
 ---
 ```python
+# Example 3
 grade = "B"
 score = 85
 
