@@ -47,5 +47,5 @@ if grade == "A" or score >= 90:
 elif grade == "B" or score >= 80:
     print("Good job!")
 else:
-    print("You can do better.")
+    print("You should review your lab notes.")
 ```
