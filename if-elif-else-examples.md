@@ -3,7 +3,7 @@
 ### Overview
 
 - Most real-world situations involve making a choice between more than two options or possibilities
-- For example, a movie theater may charge different rates for different age groups:
+- For example, a movie theater may charge different ticket prices for different age groups:
   - Admission for anyone under 5 is free
   - Admission for anyone between the ages of 5 and 55 is $10.50
   - Admission for anyone older than 55 is $8.50
