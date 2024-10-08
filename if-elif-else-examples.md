@@ -9,7 +9,7 @@
   - Admission for anyone older than 55 is $8.50
 - In Python, you use an `if-elif-else` statement to handle such situations
 - In an `if-elif-else` chain, Python checks each condition, in order, until it finds one that passes
-- When a test passes, the code that follows that condition is executed (run), and Python skips the rest of the tests
+- When a test passes, the code that follows that condition is *executed* (run), and Python skips the rest of the tests
 - If both the `if` and `elif` tests fail, Python runs the code in the `else` block (essentially the default option)
 
 ### Examples
