@@ -1,6 +1,6 @@
 import random
 
-# Bryce Perron, Charles Petoskey
+# Bryce Perron
 # Basic Calculator
 
 
