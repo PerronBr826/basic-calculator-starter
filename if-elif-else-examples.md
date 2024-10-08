@@ -50,3 +50,20 @@ elif grade == "B" or score >= 80:
 else:
     print("You should review your lab notes.")
 ```
+---
+```python
+# Example 4
+# Determining University Year
+year = int(input("Enter the year you are in (1 = freshman, 2 = sophomore, 3 = junior, 4 = senior): "))
+
+if year == 1:
+    print("You are a freshman.")
+elif year == 2:
+    print("You are a sophomore.")
+elif year == 3:
+    print("You are a junior.")
+elif year == 4:
+    print("You are a senior.")
+else:
+    print("Invalid input. Please enter a number between 1 and 4.")
+```
