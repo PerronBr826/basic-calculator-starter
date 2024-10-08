@@ -54,7 +54,7 @@ else:
 ```python
 # Example 4
 # Determining University Year
-year = int(input("Enter the year you are in (1 = freshman, 2 = sophomore, 3 = junior, 4 = senior): "))
+year = int(input("Enter the year you are in at the university (1 = freshman, 2 = sophomore, 3 = junior, 4 = senior): "))
 
 if year == 1:
     print("You are a freshman.")
